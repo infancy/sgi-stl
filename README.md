@@ -1,5 +1,1 @@
-sgi-stl
-==============
-
-tass-sgi-stl-2.91.57-annotated
-tass-sgi-stl-2.91.57-source
+# 《STL 源码剖析》一书使用的 SGI STL v2.91.57 的代码及注释
